@@ -141,9 +141,14 @@ Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/vid
 ## Project Info
 
 Node version: v12.13.0 (Got error with Node 14, then dowgraded to Node 12 and everythinkwent fine)
+
 Truffle version: v5.0.2
+
 OpenZeppelin version: 2.3.0
+
 ERC-721 Token Name: Galaxy
+
 ERC-721 Token Symbol: GLX
+
 Token Address on Rinkeby Network: 0x5e0bfca0ae957466c83433045888855ce6108b79
   URL: https://rinkeby.etherscan.io/token/0x5e0bfca0ae957466c83433045888855ce6108b79#balances
