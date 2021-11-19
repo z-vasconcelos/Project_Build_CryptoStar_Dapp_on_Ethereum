@@ -1,5 +1,5 @@
 var HDWalletProvider = require("truffle-hdwallet-provider");
-var mnemonic = "cute ability please elephant copy mention appear fold pair speak mercy junk";
+var mnemonic = "your mnemonic here";
 
 /**
  * Use this file to configure your truffle project. It's seeded with some
@@ -57,7 +57,7 @@ module.exports = {
 
     rinkeby: {
       provider: function() { 
-        return new HDWalletProvider(mnemonic, "https://rinkeby.infura.io/v3/6178ae20e347446d93c98ec837649276");
+        return new HDWalletProvider(mnemonic, "infura rinkeby endpoint");
       },
       network_id: 4, // Rinkeby's id
       gas: 4500000,
